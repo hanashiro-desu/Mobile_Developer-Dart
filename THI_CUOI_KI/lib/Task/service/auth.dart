@@ -18,7 +18,7 @@ class AuthMethods {
   // Đăng nhập bằng Google
   Future<void> signInWithGoogle(BuildContext context) async {
     final googleSignIn  = GoogleSignIn(
-      clientId: '398644073089-55tm0ia42dcfhootnqtjbp7mc44l2e7g.apps.googleusercontent.com', // Dán client ID vừa sao chép ở đây
+      clientId: 'ID của web em sài', // Dán client ID vừa sao chép ở đây
     );
 
     // chứa tài khoản google
