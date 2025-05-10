@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "398644073089",
+    "project_id": "thick-cf6c2",
+    "storage_bucket": "thick-cf6c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398644073089:android:4edcc285916504e05ab380",
+        "android_client_info": {
+          "package_name": "com.example.thick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYRghrD_Jbs1-LDibF0e6eG7c2LHBYZOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
